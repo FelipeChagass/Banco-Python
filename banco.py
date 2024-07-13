@@ -153,3 +153,6 @@ def listar_contas(contas):
         """
         print("=" * 100)
         print(textwrap.dedent(linha))
+
+
+main()
